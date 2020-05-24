@@ -1,0 +1,11 @@
+{{ .Scratch.Set "background" "images/star-bg.jpg"}}
+{{ if .Scratch.Get "background" }}
+    <style type="text/css">
+        .responsive-header-img {
+            background:  linear-gradient( rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0.25)), url('{{ .Scratch.Get "background" }}');
+        }
+    </style>
+    <div class="outer site-header-background responsive-header-img">
+{{ else }}
+    <div class="outer site-header-background no-image">
+{{ end }}

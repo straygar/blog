@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tech Blog</title>
+    <link>https://aigarsreiters.tech/</link>
+    <description>Recent content on Tech Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 17 May 2020 20:56:15 +0100</lastBuildDate>
+    
+	<atom:link href="https://aigarsreiters.tech/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>AWS Glue - Zero to Data-Plumbing Hero! (part 1)</title>
+      <link>https://aigarsreiters.tech/posts/2020-05-17-aws-glue/</link>
+      <pubDate>Sun, 17 May 2020 20:56:15 +0100</pubDate>
+      
+      <guid>https://aigarsreiters.tech/posts/2020-05-17-aws-glue/</guid>
+      <description>&amp;ldquo;Data is the new oil&amp;rdquo; - someone, probably.
+ Indeed, we live in the golden age of information. As we produce more and more data every day, the skill of extracting that gold nugget of knowledge amongst the endless noise is becoming increasingly valuable.
+Whether you are building the next great ML model, scraping websites, or dealing with data in any other way, at your work or as a fun side-project, you have already dipped your toes in the messy swamp that is the world of ETL (Extract, Transform, Load).</description>
+    </item>
+    
+  </channel>
+</rss>

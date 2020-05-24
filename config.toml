@@ -1,0 +1,12 @@
+baseURL = "https://aigarsreiters.tech/"
+languageCode = "en-us"
+title = "Tech Blog"
+theme = "casper3"
+sectionPagesMenu = "main"
+
+[menu]
+[[menu.main]]
+identifier = "about"
+name = "About Me"
+title = "About Me"
+url = "/about/"
