@@ -2,6 +2,7 @@ baseURL = "https://aigarsreiters.tech/"
 languageCode = "en-us"
 title = "Tech Blog"
 theme = "casper3"
+publishDir="straygar.github.io/blog/"
 sectionPagesMenu = "main"
 
 [menu]
