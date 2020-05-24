@@ -1,4 +1,5 @@
 baseURL = "https://aigarsreiters.tech/blog/"
+canonifyURLs = true
 languageCode = "en-us"
 title = "Tech Blog"
 theme = "casper3"
