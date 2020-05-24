@@ -1,4 +1,4 @@
-baseURL = "https://aigarsreiters.tech/"
+baseURL = "https://aigarsreiters.tech/blog/"
 languageCode = "en-us"
 title = "Tech Blog"
 theme = "casper3"
