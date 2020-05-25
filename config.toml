@@ -1,10 +1,14 @@
 baseURL = "https://aigarsreiters.tech/blog/"
 canonifyURLs = true
 languageCode = "en-us"
-title = "Tech Blog"
+title = "Aigars Rambles Tech"
 theme = "casper3"
 publishDir="straygar.github.io/blog/"
 sectionPagesMenu = "main"
+
+[params]
+  description = "We all start somewhere"
+  github = 'https://github.com/straygar/'
 
 [menu]
 [[menu.main]]

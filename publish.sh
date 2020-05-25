@@ -11,11 +11,11 @@ hugo
 # Publish static files
 cd straygar.github.io
 git add .
-git commit -m $1
+git commit -m "$1"
 git push
 
 # Publish Hugo repo updates
 cd ..
 git add .
-git commit -m $1    
+git commit -m "$1"    
 git push 
